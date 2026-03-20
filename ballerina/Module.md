@@ -2,6 +2,14 @@
 
 [//]: # (TODO: Add overview mentioning the purpose of the module, supported REST API versions, and other high-level details.)
 
+
+### Key Features
+
+- Send transactional and marketing emails via SendGrid API
+- Manage contacts, lists, and segments
+- Access email activity and engagement statistics
+- Support for email templates and dynamic content
+
 ## Setup guide
 
 [//]: # (TODO: Add detailed steps to obtain credentials and configure the module.)

@@ -1,6 +1,14 @@
 ## Overview
 
-[//]: # (TODO: Add overview mentioning the purpose of the module, supported REST API versions, and other high-level details.)
+[SendGrid](https://sendgrid.com/) is a cloud-based email service provider that allows you to send email without having to maintain email servers. It manages all of the technical details, from scaling the infrastructure to ISP outreach and reputation monitoring to whitelist services and real-time analytics.
+
+
+### Key Features
+
+- Send transactional and marketing emails via SendGrid API
+- Manage contacts, lists, and segments
+- Access email activity and engagement statistics
+- Support for email templates and dynamic content
 
 ## Setup guide
 
